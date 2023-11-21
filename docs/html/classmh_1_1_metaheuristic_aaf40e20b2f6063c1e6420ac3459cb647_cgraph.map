@@ -1,0 +1,9 @@
+<map id="mh::Metaheuristic::crossover" name="mh::Metaheuristic::crossover">
+<area shape="rect" id="node1" title="Applies Uniform Order Based Crossover on parent solutions." alt="" coords="5,137,140,179"/>
+<area shape="rect" id="node2" href="$classopp_1_1_travelling_salesman_problem.html#a9e757a47610652d9f057d032c9da15b2" title="Applies Uniform Order Based Crossover on parent solutions." alt="" coords="188,104,399,145"/>
+<area shape="rect" id="node7" href="$classopp_1_1_travelling_salesman_problem.html#a96e3fd9334553d069a582442f8a64636" title="Selects a solution from the population using Tournament Selection." alt="" coords="188,169,399,211"/>
+<area shape="rect" id="node3" href="$classopp_1_1_travelling_salesman_problem.html#a52d3edebcccbc4626a274debfe825bea" title="Used in Crossover to copy the changed elements of parents to children after reordering." alt="" coords="447,5,657,47"/>
+<area shape="rect" id="node4" href="$classopp_1_1_travelling_salesman_problem.html#afba4ae9684a9aeb61afd365ff9a44f8b" title="Used in Crossover to copy the preserved elements of parents to children and determine the elements to..." alt="" coords="447,71,657,112"/>
+<area shape="rect" id="node5" href="$classopp_1_1_travelling_salesman_problem.html#a4c5f4ebeff9e699b194ab4ced7c7c63e" title="Calculates the cost of a solution." alt="" coords="447,136,657,177"/>
+<area shape="rect" id="node6" href="$classopp_1_1_travelling_salesman_problem.html#ab72e1a01bb055ec959983662c4876d64" title="Used in Crossover to reorder the elements to be changed in respect to their order in the other parent..." alt="" coords="447,201,657,243"/>
+</map>

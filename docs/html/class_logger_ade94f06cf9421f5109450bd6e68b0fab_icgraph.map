@@ -1,0 +1,5 @@
+<map id="Logger::log" name="Logger::log">
+<area shape="rect" id="node1" title="Logs the optimal solutions returned by metaheuristics." alt="" coords="212,31,299,57"/>
+<area shape="rect" id="node2" href="$class_logger.html#a9e396b5f528e2fd328eda38ad9f6bd39" title="Benchmarks all metaheuristics and logs the results." alt="" coords="11,5,159,32"/>
+<area shape="rect" id="node3" href="$classgui_1_1_application.html#a051023103d00b96b1e5e7437fd8e2e7c" title="Updates the current screen." alt="" coords="5,56,164,83"/>
+</map>

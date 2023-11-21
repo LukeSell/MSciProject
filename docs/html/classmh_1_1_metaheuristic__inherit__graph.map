@@ -1,0 +1,7 @@
+<map id="mh::Metaheuristic" name="mh::Metaheuristic">
+<area shape="rect" id="node1" title="Represents a metaheuristic used to solve a problem." alt="" coords="285,5,415,215"/>
+<area shape="rect" id="node2" href="$classmh_1_1_genetic_algorithm.html" title="Represents the use of the Genetic Algorithm to solve a problem." alt="" coords="5,277,153,413"/>
+<area shape="rect" id="node3" href="$classmh_1_1_iterated_local_search.html" title="Represents the use of Iterated Local Search to solve a problem." alt="" coords="178,263,341,428"/>
+<area shape="rect" id="node4" href="$classmh_1_1_memetic_algorithm.html" title="Represents the use of the Memetic Algorithm to solve a problem." alt="" coords="365,263,519,428"/>
+<area shape="rect" id="node5" href="$classmh_1_1_tabu_search.html" title="Represents the use of Tabu Search to solve a problem." alt="" coords="543,263,666,428"/>
+</map>

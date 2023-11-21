@@ -1,0 +1,4 @@
+<map id="mh::MemeticAlgorithm::localSearch" name="mh::MemeticAlgorithm::localSearch">
+<area shape="rect" id="node1" title="Applies a local search to the solution." alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node2" href="$classmh_1_1_memetic_algorithm.html#ab15cea2b9f7127cd01db9af011142687" title="Finds a near optimal solution to the problem using the Memetic Algorithm." alt="" coords="5,5,159,47"/>
+</map>

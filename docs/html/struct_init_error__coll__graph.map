@@ -1,0 +1,3 @@
+<map id="InitError" name="InitError">
+<area shape="rect" id="node1" title="Represents the error thrown if SDL libraries cannot be initialised or the window and renderer cannot ..." alt="" coords="5,5,92,83"/>
+</map>

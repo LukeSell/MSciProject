@@ -1,0 +1,10 @@
+<map id="mh::IteratedLocalSearch::findOptimal" name="mh::IteratedLocalSearch::findOptimal">
+<area shape="rect" id="node1" title="Finds a near optimal solution to the problem using Iterated Local Search." alt="" coords="5,100,168,141"/>
+<area shape="rect" id="node2" href="$classmh_1_1_metaheuristic.html#a17ee0cbdd097192f6a205c57133a5717" title="Applies a move to a solution." alt="" coords="465,56,599,97"/>
+<area shape="rect" id="node5" href="$classmh_1_1_iterated_local_search.html#a9c23c535bce43d52a2ce39f2b64d360c" title="Perturbs the solution to escape a local optima." alt="" coords="216,100,379,141"/>
+<area shape="rect" id="node6" href="$classmh_1_1_metaheuristic.html#a587e655f724797038c8de993832f7caa" title="Generates a random solution to the problem." alt="" coords="230,165,365,207"/>
+<area shape="rect" id="node3" href="$classopp_1_1_travelling_salesman_problem.html#ad05c81f501fe5f191e0de39d3f8ad332" title="Generates a move from the neighbourhood of a solution." alt="" coords="685,5,896,47"/>
+<area shape="rect" id="node4" href="$classopp_1_1_travelling_salesman_problem.html#aa42a141024661ed6c2947358a785e982" title="Applies a move to a solution." alt="" coords="685,71,896,112"/>
+<area shape="rect" id="node7" href="$classopp_1_1_travelling_salesman_problem.html#a56af096a854db5ae5118445013332be5" title="Generates a random solution to the problem." alt="" coords="427,165,637,207"/>
+<area shape="rect" id="node8" href="$classopp_1_1_travelling_salesman_problem.html#a4c5f4ebeff9e699b194ab4ced7c7c63e" title="Calculates the cost of a solution." alt="" coords="685,165,896,207"/>
+</map>

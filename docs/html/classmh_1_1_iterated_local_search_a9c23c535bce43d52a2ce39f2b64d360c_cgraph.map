@@ -1,0 +1,6 @@
+<map id="mh::IteratedLocalSearch::perturb" name="mh::IteratedLocalSearch::perturb">
+<area shape="rect" id="node1" title="Perturbs the solution to escape a local optima." alt="" coords="5,39,168,80"/>
+<area shape="rect" id="node2" href="$classmh_1_1_metaheuristic.html#a17ee0cbdd097192f6a205c57133a5717" title="Applies a move to a solution." alt="" coords="216,39,351,80"/>
+<area shape="rect" id="node3" href="$classopp_1_1_travelling_salesman_problem.html#ad05c81f501fe5f191e0de39d3f8ad332" title="Generates a move from the neighbourhood of a solution." alt="" coords="399,5,609,47"/>
+<area shape="rect" id="node4" href="$classopp_1_1_travelling_salesman_problem.html#aa42a141024661ed6c2947358a785e982" title="Applies a move to a solution." alt="" coords="399,71,609,112"/>
+</map>

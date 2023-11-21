@@ -1,0 +1,4 @@
+<map id="mh::IteratedLocalSearch::perturb" name="mh::IteratedLocalSearch::perturb">
+<area shape="rect" id="node1" title="Perturbs the solution to escape a local optima." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node2" href="$classmh_1_1_iterated_local_search.html#abe4fc7258b131bd9cc6ee2a46a853305" title="Finds a near optimal solution to the problem using Iterated Local Search." alt="" coords="5,5,168,47"/>
+</map>

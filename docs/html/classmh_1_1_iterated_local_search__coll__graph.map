@@ -1,0 +1,7 @@
+<map id="mh::IteratedLocalSearch" name="mh::IteratedLocalSearch">
+<area shape="rect" id="node1" title="Represents the use of Iterated Local Search to solve a problem." alt="" coords="29,992,192,1157"/>
+<area shape="rect" id="node2" href="$classmh_1_1_metaheuristic.html" title="Represents a metaheuristic used to solve a problem." alt="" coords="45,733,176,943"/>
+<area shape="rect" id="node3" href="$classopp_1_1_travelling_salesman_problem.html" title="Representation of the Euclidean Travelling Salesman Problem." alt="" coords="5,359,216,671"/>
+<area shape="rect" id="node4" href="$structopp_1_1_solution.html" title="Represents a solution to the Travelling Salesman Problem." alt="" coords="61,189,160,296"/>
+<area shape="rect" id="node5" href="$structopp_1_1_move.html" title="Represents a move, that is a transposition of two cities in a path." alt="" coords="58,5,163,127"/>
+</map>

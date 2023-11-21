@@ -1,0 +1,5 @@
+<map id="gui::GuiComponent" name="gui::GuiComponent">
+<area shape="rect" id="node1" title="Represents a component of the GUI." alt="" coords="107,5,243,141"/>
+<area shape="rect" id="node2" href="$classgui_1_1_button.html" title="Represents part of the GUI that can be displayed and clicked on." alt="" coords="5,197,148,450"/>
+<area shape="rect" id="node3" href="$classgui_1_1_travelling_salesman_problem_display.html" title="Handles displaying of problem and interaction with the user." alt="" coords="172,189,379,457"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gui::Screen::handleEvent" name="gui::Screen::handleEvent">
+<area shape="rect" id="node1" title="Handles events for all components that are part of the screen." alt="" coords="211,13,377,39"/>
+<area shape="rect" id="node2" href="$classgui_1_1_application.html#a560aab587a90a1501eeee97160b09c3d" title="Handles all events for the current screen." alt="" coords="5,5,163,47"/>
+</map>

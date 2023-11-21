@@ -1,0 +1,4 @@
+<map id="gui::Button::isSelected" name="gui::Button::isSelected">
+<area shape="rect" id="node1" title="Determines if the mouse position is within the bounds of the button." alt="" coords="183,5,337,32"/>
+<area shape="rect" id="node2" href="$classgui_1_1_button.html#a8f9aba7c681f6f6e583f6bb0ade4676c" title="Renders the button onto the window." alt="" coords="5,5,135,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="gui::Application::update" name="gui::Application::update">
+<area shape="rect" id="node1" title="Updates the current screen." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$class_logger.html#ade94f06cf9421f5109450bd6e68b0fab" title="Logs the optimal solutions returned by metaheuristics." alt="" coords="236,5,323,32"/>
+<area shape="rect" id="node3" href="$classgui_1_1_screen.html#a0b6fb948f802838e45c45ef04d7e6370" title="Updates all components that are part of the screen." alt="" coords="212,56,347,83"/>
+</map>

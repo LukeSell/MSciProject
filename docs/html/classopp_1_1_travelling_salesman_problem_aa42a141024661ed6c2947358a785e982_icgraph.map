@@ -1,0 +1,10 @@
+<map id="opp::TravellingSalesmanProblem::neighbour" name="opp::TravellingSalesmanProblem::neighbour">
+<area shape="rect" id="node1" title="Applies a move to a solution." alt="" coords="637,152,848,193"/>
+<area shape="rect" id="node2" href="$classmh_1_1_metaheuristic.html#a17ee0cbdd097192f6a205c57133a5717" title="Applies a move to a solution." alt="" coords="455,152,589,193"/>
+<area shape="rect" id="node3" href="$classmh_1_1_genetic_algorithm.html#afc5c822f97236d13700f372837f993e0" title="Finds a near optimal solution to the problem using the Genetic Algorithm." alt="" coords="237,5,385,47"/>
+<area shape="rect" id="node4" href="$classmh_1_1_memetic_algorithm.html#ab15cea2b9f7127cd01db9af011142687" title="Finds a near optimal solution to the problem using the Memetic Algorithm." alt="" coords="10,93,163,135"/>
+<area shape="rect" id="node5" href="$classmh_1_1_iterated_local_search.html#abe4fc7258b131bd9cc6ee2a46a853305" title="Finds a near optimal solution to the problem using Iterated Local Search." alt="" coords="5,269,168,311"/>
+<area shape="rect" id="node6" href="$classmh_1_1_tabu_search.html#a710549972412c1af94dccf32f51881b6" title="Finds a near optimal solution to the problem using Tabu Search." alt="" coords="216,189,407,215"/>
+<area shape="rect" id="node7" href="$classmh_1_1_memetic_algorithm.html#af39272a928e81eed1e2b6a78c9c9a6ce" title="Applies a local search to the solution." alt="" coords="235,123,388,164"/>
+<area shape="rect" id="node8" href="$classmh_1_1_iterated_local_search.html#a9c23c535bce43d52a2ce39f2b64d360c" title="Perturbs the solution to escape a local optima." alt="" coords="230,240,393,281"/>
+</map>

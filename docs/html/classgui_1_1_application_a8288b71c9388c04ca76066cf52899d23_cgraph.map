@@ -1,0 +1,4 @@
+<map id="gui::Application::render" name="gui::Application::render">
+<area shape="rect" id="node1" title="Renders all GUI elements onto the window." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$classgui_1_1_screen.html#ac517b76cdb1694ce1de9a822d7d57c08" title="Renders all GUI components onto the screen." alt="" coords="208,5,340,32"/>
+</map>

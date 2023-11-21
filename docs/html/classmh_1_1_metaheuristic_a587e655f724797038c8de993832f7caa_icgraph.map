@@ -1,0 +1,7 @@
+<map id="mh::Metaheuristic::randomSolution" name="mh::Metaheuristic::randomSolution">
+<area shape="rect" id="node1" title="Generates a random solution to the problem." alt="" coords="244,104,379,145"/>
+<area shape="rect" id="node2" href="$classmh_1_1_genetic_algorithm.html#afc5c822f97236d13700f372837f993e0" title="Finds a near optimal solution to the problem using the Genetic Algorithm." alt="" coords="27,5,175,47"/>
+<area shape="rect" id="node3" href="$classmh_1_1_iterated_local_search.html#abe4fc7258b131bd9cc6ee2a46a853305" title="Finds a near optimal solution to the problem using Iterated Local Search." alt="" coords="19,71,182,112"/>
+<area shape="rect" id="node4" href="$classmh_1_1_memetic_algorithm.html#ab15cea2b9f7127cd01db9af011142687" title="Finds a near optimal solution to the problem using the Memetic Algorithm." alt="" coords="24,136,177,177"/>
+<area shape="rect" id="node5" href="$classmh_1_1_tabu_search.html#a710549972412c1af94dccf32f51881b6" title="Finds a near optimal solution to the problem using Tabu Search." alt="" coords="5,202,196,229"/>
+</map>

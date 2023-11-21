@@ -1,0 +1,4 @@
+<map id="Logger::benchmark" name="Logger::benchmark">
+<area shape="rect" id="node1" title="Benchmarks the metaheuristic and calculates benchmarking data." alt="" coords="201,5,335,32"/>
+<area shape="rect" id="node2" href="$class_logger.html#a9e396b5f528e2fd328eda38ad9f6bd39" title="Benchmarks all metaheuristics and logs the results." alt="" coords="5,5,153,32"/>
+</map>

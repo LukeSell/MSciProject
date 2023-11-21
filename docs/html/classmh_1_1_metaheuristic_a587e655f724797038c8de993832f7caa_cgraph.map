@@ -1,0 +1,5 @@
+<map id="mh::Metaheuristic::randomSolution" name="mh::Metaheuristic::randomSolution">
+<area shape="rect" id="node1" title="Generates a random solution to the problem." alt="" coords="5,5,140,47"/>
+<area shape="rect" id="node2" href="$classopp_1_1_travelling_salesman_problem.html#a56af096a854db5ae5118445013332be5" title="Generates a random solution to the problem." alt="" coords="188,5,399,47"/>
+<area shape="rect" id="node3" href="$classopp_1_1_travelling_salesman_problem.html#a4c5f4ebeff9e699b194ab4ced7c7c63e" title="Calculates the cost of a solution." alt="" coords="447,5,657,47"/>
+</map>

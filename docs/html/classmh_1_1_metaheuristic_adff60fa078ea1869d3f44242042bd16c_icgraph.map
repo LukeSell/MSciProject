@@ -1,0 +1,5 @@
+<map id="mh::Metaheuristic::findOptimal" name="mh::Metaheuristic::findOptimal">
+<area shape="rect" id="node1" title="Finds a near optimal solution to the problem using a metaheuristic." alt="" coords="383,5,517,47"/>
+<area shape="rect" id="node2" href="$class_logger.html#afbf502b77d78e046cf2b4772ee4cc947" title="Benchmarks the metaheuristic and calculates benchmarking data." alt="" coords="201,13,335,39"/>
+<area shape="rect" id="node3" href="$class_logger.html#a9e396b5f528e2fd328eda38ad9f6bd39" title="Benchmarks all metaheuristics and logs the results." alt="" coords="5,13,153,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmh_1_1_metaheuristic.html" title="Represents a metaheuristic used to solve a problem." alt="" coords="5,81,132,108"/>
+<area shape="rect" id="node2" href="$classmh_1_1_genetic_algorithm.html" title="Represents the use of the Genetic Algorithm to solve a problem." alt="" coords="187,5,335,32"/>
+<area shape="rect" id="node3" href="$classmh_1_1_iterated_local_search.html" title="Represents the use of Iterated Local Search to solve a problem." alt="" coords="180,56,343,83"/>
+<area shape="rect" id="node4" href="$classmh_1_1_memetic_algorithm.html" title="Represents the use of the Memetic Algorithm to solve a problem." alt="" coords="185,107,338,133"/>
+<area shape="rect" id="node5" href="$classmh_1_1_tabu_search.html" title="Represents the use of Tabu Search to solve a problem." alt="" coords="203,157,320,184"/>
+</map>

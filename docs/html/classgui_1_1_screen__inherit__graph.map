@@ -1,0 +1,4 @@
+<map id="gui::Screen" name="gui::Screen">
+<area shape="rect" id="node1" title="Represents a screen and its components that the user can interact with." alt="" coords="5,5,140,185"/>
+<area shape="rect" id="node2" href="$classgui_1_1_menu.html" title="Represents the main menu screen and all of its components." alt="" coords="18,233,127,355"/>
+</map>

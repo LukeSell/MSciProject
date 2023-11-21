@@ -1,0 +1,7 @@
+<map id="gui::TravellingSalesmanProblemDisplay" name="gui::TravellingSalesmanProblemDisplay">
+<area shape="rect" id="node1" title="Handles displaying of problem and interaction with the user." alt="" coords="30,733,237,987"/>
+<area shape="rect" id="node2" href="$classgui_1_1_gui_component.html" title="Represents a component of the GUI." alt="" coords="5,447,141,583"/>
+<area shape="rect" id="node3" href="$classopp_1_1_travelling_salesman_problem.html" title="Representation of the Euclidean Travelling Salesman Problem." alt="" coords="165,359,376,671"/>
+<area shape="rect" id="node4" href="$structopp_1_1_solution.html" title="Represents a solution to the Travelling Salesman Problem." alt="" coords="221,189,320,296"/>
+<area shape="rect" id="node5" href="$structopp_1_1_move.html" title="Represents a move, that is a transposition of two cities in a path." alt="" coords="218,5,323,127"/>
+</map>

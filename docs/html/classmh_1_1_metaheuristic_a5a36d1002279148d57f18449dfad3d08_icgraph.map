@@ -1,0 +1,5 @@
+<map id="mh::Metaheuristic::generateMove" name="mh::Metaheuristic::generateMove">
+<area shape="rect" id="node1" title="Generates a move from the neighbourhood of a solution." alt="" coords="497,5,632,47"/>
+<area shape="rect" id="node2" href="$classmh_1_1_tabu_search.html#a191afd82e629142b3b0ae41c8e635244" title="Generates a move from the neighbourhood of a solution, that is not tabu." alt="" coords="244,13,449,39"/>
+<area shape="rect" id="node3" href="$classmh_1_1_tabu_search.html#a710549972412c1af94dccf32f51881b6" title="Finds a near optimal solution to the problem using Tabu Search." alt="" coords="5,13,196,39"/>
+</map>

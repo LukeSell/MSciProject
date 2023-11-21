@@ -1,0 +1,3 @@
+<map id="gui::GuiComponent" name="gui::GuiComponent">
+<area shape="rect" id="node1" title="Represents a component of the GUI." alt="" coords="5,5,141,141"/>
+</map>

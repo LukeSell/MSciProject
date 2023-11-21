@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classgui_1_1_gui_component.html" title="Represents a component of the GUI." alt="" coords="5,35,139,61"/>
+<area shape="rect" id="node2" href="$classgui_1_1_button.html" title="Represents part of the GUI that can be displayed and clicked on." alt="" coords="247,5,333,32"/>
+<area shape="rect" id="node3" href="$classgui_1_1_travelling_salesman_problem_display.html" title="Handles displaying of problem and interaction with the user." alt="" coords="187,57,393,98"/>
+</map>

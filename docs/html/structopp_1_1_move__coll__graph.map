@@ -1,0 +1,3 @@
+<map id="opp::Move" name="opp::Move">
+<area shape="rect" id="node1" title="Represents a move, that is a transposition of two cities in a path." alt="" coords="5,5,111,127"/>
+</map>

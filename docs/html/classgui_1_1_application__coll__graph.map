@@ -1,0 +1,5 @@
+<map id="gui::Application" name="gui::Application">
+<area shape="rect" id="node1" title="Handles all parts of running the program." alt="" coords="77,292,207,736"/>
+<area shape="rect" id="node2" href="$class_logger.html" title="Handles logging results and benchmarks to files." alt="" coords="5,5,127,229"/>
+<area shape="rect" id="node3" href="$classgui_1_1_screen.html" title="Represents a screen and its components that the user can interact with." alt="" coords="151,27,285,207"/>
+</map>

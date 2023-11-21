@@ -1,0 +1,4 @@
+<map id="gui::TravellingSalesmanProblemDisplay" name="gui::TravellingSalesmanProblemDisplay">
+<area shape="rect" id="node1" title="Handles displaying of problem and interaction with the user." alt="" coords="5,189,212,457"/>
+<area shape="rect" id="node2" href="$classgui_1_1_gui_component.html" title="Represents a component of the GUI." alt="" coords="41,5,177,141"/>
+</map>

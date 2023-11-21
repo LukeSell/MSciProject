@@ -1,0 +1,5 @@
+<map id="mh::Metaheuristic::crossover" name="mh::Metaheuristic::crossover">
+<area shape="rect" id="node1" title="Applies Uniform Order Based Crossover on parent solutions." alt="" coords="207,39,341,80"/>
+<area shape="rect" id="node2" href="$classmh_1_1_genetic_algorithm.html#afc5c822f97236d13700f372837f993e0" title="Finds a near optimal solution to the problem using the Genetic Algorithm." alt="" coords="8,5,156,47"/>
+<area shape="rect" id="node3" href="$classmh_1_1_memetic_algorithm.html#ab15cea2b9f7127cd01db9af011142687" title="Finds a near optimal solution to the problem using the Memetic Algorithm." alt="" coords="5,71,159,112"/>
+</map>

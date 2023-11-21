@@ -1,0 +1,12 @@
+<map id="opp::TravellingSalesmanProblem::generateMove" name="opp::TravellingSalesmanProblem::generateMove">
+<area shape="rect" id="node1" title="Generates a move from the neighbourhood of a solution." alt="" coords="680,134,891,175"/>
+<area shape="rect" id="node2" href="$classmh_1_1_metaheuristic.html#a5a36d1002279148d57f18449dfad3d08" title="Generates a move from the neighbourhood of a solution." alt="" coords="497,50,632,91"/>
+<area shape="rect" id="node5" href="$classmh_1_1_metaheuristic.html#a17ee0cbdd097192f6a205c57133a5717" title="Applies a move to a solution." alt="" coords="497,166,632,207"/>
+<area shape="rect" id="node3" href="$classmh_1_1_tabu_search.html#a191afd82e629142b3b0ae41c8e635244" title="Generates a move from the neighbourhood of a solution, that is not tabu." alt="" coords="244,5,449,32"/>
+<area shape="rect" id="node4" href="$classmh_1_1_tabu_search.html#a710549972412c1af94dccf32f51881b6" title="Finds a near optimal solution to the problem using Tabu Search." alt="" coords="5,31,196,57"/>
+<area shape="rect" id="node6" href="$classmh_1_1_genetic_algorithm.html#afc5c822f97236d13700f372837f993e0" title="Finds a near optimal solution to the problem using the Genetic Algorithm." alt="" coords="273,107,421,149"/>
+<area shape="rect" id="node7" href="$classmh_1_1_memetic_algorithm.html#ab15cea2b9f7127cd01db9af011142687" title="Finds a near optimal solution to the problem using the Memetic Algorithm." alt="" coords="24,209,177,250"/>
+<area shape="rect" id="node8" href="$classmh_1_1_iterated_local_search.html#abe4fc7258b131bd9cc6ee2a46a853305" title="Finds a near optimal solution to the problem using Iterated Local Search." alt="" coords="19,299,182,341"/>
+<area shape="rect" id="node9" href="$classmh_1_1_memetic_algorithm.html#af39272a928e81eed1e2b6a78c9c9a6ce" title="Applies a local search to the solution." alt="" coords="270,225,423,266"/>
+<area shape="rect" id="node10" href="$classmh_1_1_iterated_local_search.html#a9c23c535bce43d52a2ce39f2b64d360c" title="Perturbs the solution to escape a local optima." alt="" coords="265,342,428,383"/>
+</map>

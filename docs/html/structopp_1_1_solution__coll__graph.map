@@ -1,0 +1,4 @@
+<map id="opp::Solution" name="opp::Solution">
+<area shape="rect" id="node1" title="Represents a solution to the Travelling Salesman Problem." alt="" coords="9,189,107,296"/>
+<area shape="rect" id="node2" href="$structopp_1_1_move.html" title="Represents a move, that is a transposition of two cities in a path." alt="" coords="5,5,111,127"/>
+</map>

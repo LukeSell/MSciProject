@@ -1,0 +1,11 @@
+<map id="mh::TabuSearch::findOptimal" name="mh::TabuSearch::findOptimal">
+<area shape="rect" id="node1" title="Finds a near optimal solution to the problem using Tabu Search." alt="" coords="5,86,196,113"/>
+<area shape="rect" id="node2" href="$classmh_1_1_tabu_search.html#a191afd82e629142b3b0ae41c8e635244" title="Generates a move from the neighbourhood of a solution, that is not tabu." alt="" coords="244,21,449,47"/>
+<area shape="rect" id="node5" href="$classmh_1_1_metaheuristic.html#a17ee0cbdd097192f6a205c57133a5717" title="Applies a move to a solution." alt="" coords="279,79,414,120"/>
+<area shape="rect" id="node7" href="$classmh_1_1_metaheuristic.html#a587e655f724797038c8de993832f7caa" title="Generates a random solution to the problem." alt="" coords="279,159,414,200"/>
+<area shape="rect" id="node3" href="$classmh_1_1_metaheuristic.html#a5a36d1002279148d57f18449dfad3d08" title="Generates a move from the neighbourhood of a solution." alt="" coords="535,5,670,47"/>
+<area shape="rect" id="node4" href="$classopp_1_1_travelling_salesman_problem.html#ad05c81f501fe5f191e0de39d3f8ad332" title="Generates a move from the neighbourhood of a solution." alt="" coords="756,35,967,76"/>
+<area shape="rect" id="node6" href="$classopp_1_1_travelling_salesman_problem.html#aa42a141024661ed6c2947358a785e982" title="Applies a move to a solution." alt="" coords="497,123,708,164"/>
+<area shape="rect" id="node8" href="$classopp_1_1_travelling_salesman_problem.html#a56af096a854db5ae5118445013332be5" title="Generates a random solution to the problem." alt="" coords="497,188,708,229"/>
+<area shape="rect" id="node9" href="$classopp_1_1_travelling_salesman_problem.html#a4c5f4ebeff9e699b194ab4ced7c7c63e" title="Calculates the cost of a solution." alt="" coords="756,188,967,229"/>
+</map>
