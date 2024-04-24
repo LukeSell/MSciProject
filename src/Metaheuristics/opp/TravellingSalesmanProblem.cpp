@@ -95,7 +95,7 @@ Solution TravellingSalesmanProblem::randomSolution() const {
 }
 
 Solution TravellingSalesmanProblem::select(const std::vector<Solution>& p) const {
-  std::uniform_int_distribution<Uint32> ud{0, p.size() - 1};
+  std::uniform_int_distribution<Uint64> ud{0, p.size() - 1};
   auto optimalS = p[ud(rng)];
 
   // Hold Tournament
